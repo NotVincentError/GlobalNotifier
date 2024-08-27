@@ -3,7 +3,7 @@ GlobalNotifier is an enhanced utility for simplifying the use of MessagingServic
 
 The game: https://www.roblox.com/games/121702741662077/Interact-Universe
 
-This the template which all your variables and topics are at!
+This the template which contains your RemoteEvent String and Topics are at!
 ```lua
 local Warp = require(game:GetService("ReplicatedStorage"):FindFirstChild("ClientModules").Warp)
 local Template = {}
