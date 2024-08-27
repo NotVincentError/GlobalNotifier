@@ -1,5 +1,5 @@
 # GlobalNotifier
-GlobalNotifier is an enhanced utility for simplifying the use of MessagingService in Roblox. Designed with beginners in mind, it provides an intuitive interface for messaging, while still offering robust functionality for advanced developers. If you have any suggestions for optimizing or improving this module, please share your ideas.
+**GlobalNotifier** simplifies the use of **MessagingService**, offering an intuitive interface designed for both beginners and experienced developers. Leveraging the powerful **Warp** networking library, it provides a streamlined solution for messaging needs. We welcome any suggestions for optimizing this module to enhance its functionality.
 
 The game: https://www.roblox.com/games/121702741662077/Interact-Universe
 
